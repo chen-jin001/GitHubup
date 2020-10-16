@@ -4,4 +4,5 @@ public class Student {
     private int id;
     private String name;//姓名
     private String email;
+    private int jk;
 }
